@@ -22,8 +22,8 @@
 
 .calculator-body form input {
   color: #fff;
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 50px;
   border-radius: 2px;
   box-shadow: -10px -10px 15px rgba(241, 235, 235, 0.1),
     5px 5px 15px rgba(209, 79, 79, 0.2);
