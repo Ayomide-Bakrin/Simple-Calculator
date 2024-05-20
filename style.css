@@ -28,15 +28,15 @@
   box-shadow: -10px -10px 15px rgba(241, 235, 235, 0.1),
     5px 5px 15px rgba(209, 79, 79, 0.2);
   background-color: transparent;
-  font-size: 25px;
+  font-size: 20px;
   cursor: pointer;
-  margin: 15px;
+  margin: 10px;
 }
 
 form .display {
   display: flex;
   justify-content: flex-end;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 form .display input {
@@ -46,7 +46,7 @@ form .display input {
 }
 
 form input.equal {
-  width: 175px;
+  width: 135px;
 }
 
 form input.calculating {
